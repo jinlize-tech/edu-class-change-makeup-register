@@ -1,0 +1,24 @@
+{
+  "number": 50,
+  "product_id": "JLZ-EDU-SK-040",
+  "chinese_name": "调课补课登记",
+  "english_name": "Class Change Makeup Register",
+  "repository_name": "edu-class-change-makeup-register",
+  "product_type": "Skill",
+  "category": "04 教务运营中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-class-change-makeup-register-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "调课/补课申请、原排课、教师与学生时间、课时规则和审批状态",
+  "main_output": "调课补课登记表、影响清单、课时变动、通知草稿和审批检查",
+  "package_entries": [
+    "edu-class-change-makeup-register/SKILL.md",
+    "edu-class-change-makeup-register/references/DOMAIN_GUIDE.md",
+    "edu-class-change-makeup-register/references/EXAMPLES.md",
+    "edu-class-change-makeup-register/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-040",
+  "repository_name": "edu-class-change-makeup-register",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-class-change-makeup-register-v1.0.0.zip",
+  "sha256": "CEAFE2737526169B0A92BB6DC5F2A1E7AAB626428CAD9969E80FEDFDA0CCB0DA",
+  "bytes": 4864,
+  "entries": [
+    "edu-class-change-makeup-register/SKILL.md",
+    "edu-class-change-makeup-register/references/DOMAIN_GUIDE.md",
+    "edu-class-change-makeup-register/references/EXAMPLES.md",
+    "edu-class-change-makeup-register/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:19:47.7406723+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
