@@ -6,19 +6,37 @@
   "repository_name": "edu-class-change-makeup-register",
   "product_type": "Skill",
   "category": "04 教务运营中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-class-change-makeup-register-v1.0.0.zip",
+  "baseline_commit": "044d06e16ba0d1e0d998df0ae0fbb9c64f22c3df",
+  "package_path": "dist/edu-class-change-makeup-register-v1.0.1.zip",
+  "previous_package_path": "dist/edu-class-change-makeup-register-v1.0.0.zip",
+  "previous_package_sha256": "CEAFE2737526169B0A92BB6DC5F2A1E7AAB626428CAD9969E80FEDFDA0CCB0DA",
   "calculator": false,
   "core_input": "调课/补课申请、原排课、教师与学生时间、课时规则和审批状态",
   "main_output": "调课补课登记表、影响清单、课时变动、通知草稿和审批检查",
+  "main_output_fields": [
+    "调课补课登记表",
+    "影响清单",
+    "课时变动",
+    "通知草稿和审批检查"
+  ],
   "package_entries": [
     "edu-class-change-makeup-register/SKILL.md",
     "edu-class-change-makeup-register/references/DOMAIN_GUIDE.md",
     "edu-class-change-makeup-register/references/EXAMPLES.md",
-    "edu-class-change-makeup-register/templates/OUTPUT_TEMPLATE.md"
+    "edu-class-change-makeup-register/templates/OUTPUT_TEMPLATE.md",
+    "edu-class-change-makeup-register/README.md",
+    "edu-class-change-makeup-register/USAGE.md",
+    "edu-class-change-makeup-register/LICENSE",
+    "edu-class-change-makeup-register/THIRD_PARTY_NOTICES.md",
+    "edu-class-change-makeup-register/scripts/validate_input.js"
   ]
 }
